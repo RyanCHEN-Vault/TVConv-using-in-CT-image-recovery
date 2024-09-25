@@ -17,7 +17,7 @@
 
 
 
-## Experimental Dataset 
+## Experimental Data
 
 - **Data Source**: Annual low-dose CT competition from the Mayo Clinic 
   (but I don't know the exact year of this competition😵‍💫）
@@ -25,6 +25,8 @@
 - **Data Content**: CT images with slice thicknesses of 1mm and 3mm at full and 1/4 dose.
 
 - **Data Image Size**: 512 × 512
+
+- ⚠️Data is not available from this project so that you need to modify the code about data input etc.
 
   <img src="fig/image-20240925101457818.png" width="20%">
 
